@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **developing my skills.**
 
-- 🌱 I’m currently learning **Web Development ,Java ,ML.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👯 I’m looking to collaborate on **future projects.**
 
