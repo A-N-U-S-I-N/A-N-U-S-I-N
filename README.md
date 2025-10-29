@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/Fgk6pPb/profile.jpg" alt="Minimalist-Profile-Github-Banner" border="0" width="100%">
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
-<h3 align="center">I'm a second year Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.</h3>
+<h3 align="center">I'm a Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.</h3>
 
 - 🔭 I’m currently working on **developing my skills.**
 
