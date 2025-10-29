@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anushka10singh10@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anushka-singh-71a780276](https://www.linkedin.com/in/anushka-singh-71a780276)
+- 📄 Know about my experiences [https://www.linkedin.com/in/anushka-singh-71a780276](www.linkedin.com/in/-anushka-singh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
