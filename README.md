@@ -16,12 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anushka40711744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anushka40711744" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anushka-singh-71a780276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-singh-71a780276" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23474423/anushka-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23474423/anushka-singh" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/-anushka-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-anushka-singh" height="30" width="40" /></a>
 <a href="https://instagram.com/_.anushka._.singh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anushka._.singh._" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@anushkasingh6645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anushkasingh6645" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/7C8sDWur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/7C8sDWur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
