@@ -115,6 +115,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-N-U-S-I-N&theme=radical" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-U-S-I-N&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</div>
+
 
 
 <!-- Snake Animation - Updates automatically! -->
