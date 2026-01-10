@@ -5,11 +5,6 @@
 
 [![Chatting](assests/Chatting.svg)](mailto:anushka10singh10@gmail.com)
 
-## Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue)](https://linkedin.com/in/anushka-singh-71a780276)
-[![Instagram](https://img.shields.io/badge/Instagram-_.anushka._.singh._-E4405F)](https://instagram.com/_.anushka._.singh._)
-[![YouTube](https://img.shields.io/badge/YouTube-@anushkasingh6645-FF0000)](https://youtube.com/c/@anushkasingh6645)
-
 ## 🛠️ Languages & Tools
 <div align="center">
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
