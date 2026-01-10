@@ -119,9 +119,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-U-S-I-N&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
-
-
-<!-- Snake Animation - Updates automatically! -->
 <div align="center">
-  <img src="https://github.com/A-N-U-S-I-N/A-N-U-S-I-N/raw/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/A-N-U-S-I-N/A-N-U-S-I-N/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
