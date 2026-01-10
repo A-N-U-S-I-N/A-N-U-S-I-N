@@ -5,10 +5,6 @@
 
 [![Chatting](assests/Chatting.svg)](mailto:anushka10singh10@gmail.com)
 
-## 👨‍💻 All projects: [github.com/A-N-U-S-I-N](https://github.com/A-N-U-S-I-N)
-📫 Reach me: anushka10singh10@gmail.com  
-📄 LinkedIn: [linkedin.com/in/anushka-singh-71a780276](https://www.linkedin.com/in/anushka-singh-71a780276)
-
 ## Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue)](https://linkedin.com/in/anushka-singh-71a780276)
 [![Instagram](https://img.shields.io/badge/Instagram-_.anushka._.singh._-E4405F)](https://instagram.com/_.anushka._.singh._)
