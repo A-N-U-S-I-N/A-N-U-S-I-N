@@ -103,21 +103,21 @@
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-N-U-S-I-N&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-U-S-I-N&layout=compact&theme=radical" alt="Top Langs" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-N-U-S-I-N&theme=radical" alt="GitHub Streak" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-U-S-I-N&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-N-U-S-I-N&show_icons=true&theme=radical&border_color=ffffff&hide_border=false" alt="Stats" height="185px" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-N-U-S-I-N&layout=compact&theme=radical&border_color=ffffff&hide_border=false" alt="Top Languages" height="185px" />
+    <img src="https://github-readme-streak-stats-five.vercel.app/?user=A-N-U-S-I-N&theme=radical&border=FFFFFF&hide_border=false" alt="GitHub Streak" height="185px" />
+  </div>
+
+  <br/>
+
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-N-U-S-I-N&theme=radical&border=FFFFFF" alt="Activity Graph" width="100%" />
+  </div>
 </div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/A-N-U-S-I-N/A-N-U-S-I-N/output/github-contribution-grid-snake.svg" alt="Snake Animation">
