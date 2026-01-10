@@ -3,7 +3,7 @@
   <img src="assests/Hello, I'm Anushka Singh.png" alt="Banner" width="100%"/>
 </div>
 
-[![](https://github.com/A-N-U-S-I-N/A-N-U-S-I-N/assests/Chatting.svg)](mailto:anushka10singh10@gmail.com)
+[![Chatting](assets/Chatting.svg)](mailto:anushka10singh10@gmail.com)
 
 ## 👨‍💻 All projects: [github.com/A-N-U-S-I-N](https://github.com/A-N-U-S-I-N)
 📫 Reach me: anushka10singh10@gmail.com  
