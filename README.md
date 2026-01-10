@@ -3,7 +3,6 @@
   <img src="assests/Hello, I'm Anushka Singh.png" alt="Banner" width="100%"/>
 </div>
 
-# Hi 👋, I'm Anushka Singh
 I'm a **Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology**.
 
 🔭 Crafting **full-stack magic** with cutting-edge tech & databases that power real apps.  
