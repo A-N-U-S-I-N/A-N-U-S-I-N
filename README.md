@@ -3,14 +3,7 @@
   <img src="assests/Hello, I'm Anushka Singh.png" alt="Banner" width="100%"/>
 </div>
 
-I'm a **Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology**.
-
-🔭 Crafting **full-stack magic** with cutting-edge tech & databases that power real apps.  
-👯 Open to **web dev collabs** – let's ship responsive, scalable projects together!  
-🤝 Need pointers on **diving into fresh tech stacks** – show me the next big thing!  
-🌱 Leveling up with **bleeding-edge technologies** daily – always chasing the curve.  
-💬 Hit me up for **C++ wizardry** or **MERN stack mastery** – my core domains!  
-⚡ Fun fact: **Hunting that dream internship** to launch my dev career into orbit! 🚀
+[![](https://github.com/A-N-U-S-I-N/A-N-U-S-I-N/assests/Chatting.svg)](mailto:anushka10singh10@gmail.com)
 
 ## 👨‍💻 All projects: [github.com/A-N-U-S-I-N](https://github.com/A-N-U-S-I-N)
 📫 Reach me: anushka10singh10@gmail.com  
