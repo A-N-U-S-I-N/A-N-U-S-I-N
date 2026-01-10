@@ -21,10 +21,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  ![Stats](https://stats-github-seven.vercel.app/api?username=A-N-U-S-I-N&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FDFDFD)
-![Top Langs](https://github-readme-stats-seven.vercel.app/api/top-langs/?username=A-N-U-S-I-N&theme=dark)
-  ![Streak](https://streak-stats.demolab.com?user=A-N-U-S-I-N&theme=radical)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=A-N-U-S-I-N&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-U-S-I-N&layout=compact&theme=dark)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-N-U-S-I-N)
 </div>
+
 
 
 <!-- Snake Animation - Updates automatically! -->
