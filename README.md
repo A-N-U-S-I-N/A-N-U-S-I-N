@@ -1,31 +1,49 @@
-<img src="https://i.ibb.co/Fgk6pPb/profile.jpg" alt="Minimalist-Profile-Github-Banner" border="0" width="100%">
-<h1 align="center">Hi 👋, I'm Anushka Singh</h1>
-<h3 align="center">I'm a Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.</h3>
+<!--- Your existing banner image here --->
+<div align="center">
+  <img src="assests/Hello, I'm Anushka Singh.png" alt="Banner" width="100%"/>
+</div>
 
-- 🔭 I’m currently working on **developing my skills.**
+# Hi 👋, I'm Anushka Singh
+I'm a **Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology**.
 
-- 🌱 I’m currently learning **Web Development.**
+🔭 Crafting **full-stack magic** with cutting-edge tech & databases that power real apps.  
+👯 Open to **web dev collabs** – let's ship responsive, scalable projects together!  
+🤝 Need pointers on **diving into fresh tech stacks** – show me the next big thing!  
+🌱 Leveling up with **bleeding-edge technologies** daily – always chasing the curve.  
+💬 Hit me up for **C++ wizardry** or **MERN stack mastery** – my core domains!  
+⚡ Fun fact: **Hunting that dream internship** to launch my dev career into orbit! 🚀
 
-- 👯 I’m looking to collaborate on **future projects.**
+## 👨‍💻 All projects: [github.com/A-N-U-S-I-N](https://github.com/A-N-U-S-I-N)
+📫 Reach me: anushka10singh10@gmail.com  
+📄 LinkedIn: [linkedin.com/in/anushka-singh-71a780276](https://www.linkedin.com/in/anushka-singh-71a780276)
 
-- 👨‍💻 All of my projects are available at [https://github.com/A-N-U-S-I-N](https://github.com/A-N-U-S-I-N)
+## Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue)](https://linkedin.com/in/anushka-singh-71a780276)
+[![Instagram](https://img.shields.io/badge/Instagram-_.anushka._.singh._-E4405F)](https://instagram.com/_.anushka._.singh._)
+[![YouTube](https://img.shields.io/badge/YouTube-@anushkasingh6645-FF0000)](https://youtube.com/c/@anushkasingh6645)
 
-- 📫 How to reach me **anushka10singh10@gmail.com**
+## 🛠️ Languages & Tools
+<div align="center">
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  <!-- Add MERN -->
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anushka-singh-71a780276](www.linkedin.com/in/-anushka-singh)
+## 📊 GitHub Stats
+<div align="center">
+  ![Stats](https://github-readme-stats.vercel.app/api?username=A-N-U-S-I-N&show_icons=true&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-U-S-I-N&layout=compact&theme=radical)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-N-U-S-I-N&theme=radical)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/-anushka-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-anushka-singh" height="30" width="40" /></a>
-<a href="https://instagram.com/_.anushka._.singh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anushka._.singh._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@anushkasingh6645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anushkasingh6645" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-n-u-s-i-n&show_icons=true&locale=en&layout=compact" alt="a-n-u-s-i-n" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-n-u-s-i-n&show_icons=true&locale=en" alt="a-n-u-s-i-n" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-n-u-s-i-n&" alt="a-n-u-s-i-n" /></p>
+<!-- Snake Animation - Updates automatically! -->
+<div align="center">
+  <img src="https://github.com/A-N-U-S-I-N/A-N-U-S-I-N/raw/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
