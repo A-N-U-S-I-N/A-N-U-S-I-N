@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  [Stats](https://github-readme-stats-seven.vercel.app/api?username=A-N-U-S-I-N&theme=dark&hide_border=true)
+  ![Stats](https://stats-github-seven.vercel.app/api?username=A-N-U-S-I-N&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FDFDFD)
 ![Top Langs](https://github-readme-stats-seven.vercel.app/api/top-langs/?username=A-N-U-S-I-N&theme=dark)
   ![Streak](https://streak-stats.demolab.com?user=A-N-U-S-I-N&theme=radical)
 </div>
