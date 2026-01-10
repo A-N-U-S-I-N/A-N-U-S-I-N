@@ -5,36 +5,114 @@
 
 [![Chatting](assests/Chatting.svg)](mailto:anushka10singh10@gmail.com)
 
-# 💻 My favorite tools and technologies
+# 💻 My Favorite Tools and Technologies
 
-### 🛠️ Languages & Core
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Frontend (MERN)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-N-U-S-I-N&show_icons=true&theme=radical)
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js" />
+        <br>Express.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+        <br>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
+        <br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
+        <br>Vercel
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/render/white" width="50" height="50" alt="Render" />
+        <br>Render
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" />
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React Native" />
+        <br>React Native
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="50" height="50" alt="Canva" />
+        <br>Canva
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+        <br>MySQL
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=A-N-U-S-I-N&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-U-S-I-N&layout=compact&theme=dark)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-N-U-S-I-N)
+  <img src="https://github-readme-stats.vercel.app/api?username=A-N-U-S-I-N&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-U-S-I-N&layout=compact&theme=radical" alt="Top Langs" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-N-U-S-I-N&theme=radical" alt="GitHub Streak" />
 </div>
 
 
